@@ -1,33 +1,49 @@
 For each one paste the output or the commands right below it.
 
 Create a new directory called "git_practice" and navigate to it.
+Answer: mkdir git_practice
 
 Initialize the repository.
+Answer: git init
 
 Inside the "git_practice" directory, create a new file named "index.html" using the touch command.
+Answer: touch index.html 
 
 Check the status of your Git repository using git status. What does it show?
+Answer: git repository: git status
 
 Add the "index.html" file to the staging area using git add.
+Answer: git commit -m "inital commit"
 
 Check the status again using git status. What is different now?
+Answer: git log
 
 Create a commit with a message "Initial commit" using git commit.
+Answer: git commit -m "initial commit"
 
 Check the commit history using git log. What does it show?
+Answer: git status
 
 Add a new line of text to "index.html" using the echo command and append it to the file using >>.
+Answer: git commit -m "Add content to index.html"
 
 View the contents of "index.html" using cat.
+Answer: cat index.html
 
 Check the status using git status. What does it show now?
+git log 
 
 Add the modified "index.html" to the staging area using git add.
+Answer: git add "index.html"
 
 Create a new commit with a message "Add content to index.html."
+Answer: git commit -m "Add content to index.html" 
 
 Check the commit history using git log. Has a new commit been added?
+Answer: git log
 
 Make another change to "index.html" (e.g., add more text) and create a new commit.
+Answer: echo
 
 Check the commit history using git log to verify the additional commit.
+Answer: commit history delta compression
