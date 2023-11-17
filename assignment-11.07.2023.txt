@@ -5,7 +5,7 @@ Answer: mkdir git_practice
 
 Initialize the repository.
 Answer: git init
-
+ 
 Inside the "git_practice" directory, create a new file named "index.html" using the touch command.
 Answer: touch index.html 
 
